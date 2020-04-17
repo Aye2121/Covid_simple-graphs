@@ -1,1 +1,1 @@
-# Covid_simple-graphs
+# Covid_simple-graphs.
